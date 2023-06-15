@@ -1,4 +1,4 @@
-# E-Commerce-Back-end
+# e-commerce-back-end
 Back end for an e-commerce sitethat uses Express.js API and Sequelize to interact with a MySQL database.
 
 <!-- # 13 Object-Relational Mapping (ORM): E-Commerce Back End
