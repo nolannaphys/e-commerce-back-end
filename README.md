@@ -1,5 +1,25 @@
-# e-commerce-back-end
-Back end for an e-commerce sitethat uses Express.js API and Sequelize to interact with a MySQL database.
+# E-Commerce Back-End
+## Description
+Back end for an e-commerce site that uses Express.js API and Sequelize to interact with a MySQL database.
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+N/A
+
+## Usage
+N/A
+
+## Credits
+N/A
+
+## License
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 <!-- # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
